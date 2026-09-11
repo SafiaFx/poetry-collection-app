@@ -1,0 +1,335 @@
+.body{
+    background-image: url(https://plus.unsplash.com/premium_photo-1776760640241-17a4ab30e48e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    font-family: "Oswald", sans-serif;
+}
+.text{
+    display:flex;
+    color:white;
+    font-family: "Oswald", sans-serif;
+    font-size:4rem;
+    margin-left:75rem;
+    margin-top:-30rem;
+}
+.icon-link-1{
+    text-decoration: none;
+    color:white;
+}
+.heading{
+    font-size:5rem;
+    text-align:center;
+    color:	#EDEADE;
+    padding:1rem;
+    margin:1rem;
+}
+.header {
+     display: flex;
+     color:	#EDEADE;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     font-size:1rem;
+     text-decoration:none;
+    gap:1rem;
+     margin:5rem;
+ }
+
+.header-1 {
+    display: flex;
+    color:	#EDEADE;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    font-size:1rem;
+    text-decoration:none;
+    gap:10rem;
+    margin:5rem;
+}
+a {
+    text-decoration:none;
+    color:#EDEADE;
+}
+.filters{
+    border-radius:10px;
+    padding:1rem;
+    text-decoration: none;
+    font-size:1.5rem;
+}
+
+img{
+    display:flex;
+    flex-wrap:wrap;
+    height:200px;
+    width:325px;
+    border-radius:10px;
+    text-decoration: none;
+    gap:1rem;
+}
+
+.images {
+    display:flex;
+flex-wrap:wrap;
+height:200px;
+width:325px;
+    border-radius:10px;
+    text-decoration: none;
+    gap:1rem;
+}
+
+.images-1 {
+    display:flex;
+    flex-wrap:wrap;
+    height:30rem;
+    width:45rem;
+    border-radius:10px;
+    text-decoration: none;
+    gap:1rem;
+    margin:1rem;
+}
+.name{
+    color:#c2c9c9;
+    font-size:30px;
+    text-decoration: none;
+}
+.type{
+    color: darkslategrey;
+    font-size:20px;
+    text-decoration: none;
+}
+.about{
+    color: darkolivegreen;
+    font-size:20px;
+    text-decoration: none;
+}
+.date{
+    color: grey;
+    font-size:20px;
+    font-style:italic;
+    text-decoration: none;
+}
+
+.verse{
+    text-decoration: none;
+    color:#cccccc;
+    text-shadow: black;
+    font-size: 20px;
+    width:25rem;
+    padding:2rem;
+
+}
+.submit {
+    display:flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    text-align: center;
+    margin:.25rem 2rem ;
+    padding:1rem 2rem 1rem 2rem ;
+    border-radius:1rem;
+}
+.buttons {
+    display:flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    text-align: center;
+    padding:5rem;
+    opacity:0.5;
+    border-radius:10rem;
+}
+.description {
+    width:15rem;
+    margin:1rem;
+    text-decoration: none;
+}
+.image-description-container {
+    display:flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+.add {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    color: lightgrey;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 2rem;
+    width: 70%;
+}
+.image-description-container-1 {
+    display:flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    margin:1rem;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:3rem;
+    text-decoration: none;
+    width:15rem;
+    margin:2rem;
+}
+.container-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-decoration: none;
+    margin:1rem;
+}
+
+.container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:3rem;
+    text-decoration: none;
+    width:15rem;
+    margin:2rem;
+}
+.h1 {
+    text-align:center;
+    font-size:2rem;
+}
+.contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:3rem;
+    text-decoration: none;
+}
+.contain-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:1rem;
+    text-decoration: none;
+}
+
+.filters-1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+background:darkslategray;
+    opacity:0.25;
+    border-radius:2rem;
+    padding:0.5rem;
+    width:75%;
+    height:2.5rem;
+    align-content: center;
+}
+
+.button{
+    padding: 0.5rem;
+    background-color: black;
+    color: black;
+    border: none;
+    border-radius: 4px;
+}
+.bin{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: right;
+color:grey;
+    padding:0.5rem 0.5rem 0.5rem 2rem;
+}
+.form{
+    margin-bottom: 0.5rem;
+}
+.text-1 {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    color: lightgrey;
+    font-family: "Oswald", sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+}
+.not {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    color: lightgrey;
+    font-family: "Oswald", sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+
+}
+    .text-2 {
+        color: red;
+        font-family: "Oswald", sans-serif;
+        font-size: 2rem;
+        text-align: center;
+        padding: 2rem;
+        margin: 2rem;
+    }
+    @media screen and (max-width: 1000px) {
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            justify-content: center;
+
+        }
+
+        .filters{
+            border-radius:10px;
+            padding:0.5rem;
+            text-decoration: none;
+            font-size:1.5rem;
+
+        .header {
+            display: flex;
+            color: #EDEADE;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+            .filters-1{
+                display:flex;
+                flex-direction: row;
+                justify-content: space-around;
+                background:darkslategray;
+                opacity:0.25;
+                border-radius:2rem;
+                padding:0.5rem;
+                width:75%;
+                height:0.5rem;
+                align-content: center;
+            }
+
+
+    }
+
+
+    @media screen and (max-width: 500px) {
+        .header {
+            display: flex;
+            color: #EDEADE;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            font-size: 1.5rem;
+            text-decoration: none;
+            gap: 1rem;
+            margin: 1rem;
+        }
+    }
+}
+/* Give poems room to write and preserve their line breaks when displayed. */
+.add .form { width: 100%; max-width: 42rem; }
+.add label, .add small { display: block; margin-bottom: 0.5rem; }
+.add textarea {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 18rem;
+    padding: 1rem;
+    font-family: inherit;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    resize: vertical;
+    border-radius: 0.5rem;
+}
+.verse { white-space: pre-wrap; overflow-wrap: anywhere; }

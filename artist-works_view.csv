@@ -1,0 +1,56 @@
+BACKUP OF DATABASE RECORD
+
+"id","about","image","type","verse","date","name","deleted"
+2,"Music created by E","https://plus.unsplash.com/premium_photo-1682968050371-7d1afbdb72b3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","music","- link to music -",2022,"Vispera verse",NULL
+3,"Music created by Vispera in Barcelona ","https://images.unsplash.com/photo-1589672777819-7a4fee080ae9?q=80&w=881&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","music","- link to music -",2022,"Lone Pine",NULL
+4,"Podcast with XYZ","https://cdn-images-1.medium.com/max/853/1*0AnV-ZVBwaa57yomRnmJpg.jpeg","other","Podcast available here",2024,"Plants and poetry",NULL
+5,"Creative Youth piece done circa 2013 in Hulme","https://www.york.psu.edu/sites/york/files/styles/top_feature_area/public/freequency.jpg?itok=tvn3-4aS","poetry","I breathe in the crisp air, feeling the earth beneath my feet
+Each step a reminder of the journey we all must take
+Through valleys of darkness and mountains of light
+We navigate this world, seeking our own truth and fate
+
+So here I stand, a mere speck in the vast expanse of existence
+But in this moment, I am free
+Free to dream, free to love, free to be
+In this world of endless possibilities, I am simply me",2014,"Creative Youth Piece",NULL
+6,"Poem written with ABC","https://plus.unsplash.com/premium_photo-1682968049193-66bf08477fc4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","poetry","n the quiet corners of my mind,
+There lies a place so warm and kind,
+A sanctuary from the world's cruel storm,
+A haven where my heart is truly at home.
+
+The walls may creak, the floors may groan,
+But within these familiar walls, I am not alone.
+Memories dance like flickering flames,
+Whispering secrets of forgotten names.
+",2022,"Creatures",NULL
+7,"Music inspired by Brazilian adventures","https://images.unsplash.com/photo-1474692295473-66ba4d54e0d3?q=80&w=1084&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","music","- link to music -",2018,"Latina Shadows",NULL
+8,"Poetry inspired by background in spoken word","https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","poetry","Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! It's toe-tappingly tragic!
+
+With a warning label this big, you know they gotta be fun! Switzerland is small and neutral! We are more like Germany, ambitious and misunderstood! Why, those are the Grunka-Lunkas! They work here in the Slurm factory.
+
+I'm sorry, guys. I never meant to hurt you. Just to destroy everything you ever believed in. One hundred dollars. And when we woke up, we had these bodies. Can we have Bender Burgers again?
+
+File not found. You, minion. Lift my arm. AFTER HIM! Professor, make a woman out of me. You're going back for the Countess, aren't you?
+
+Shut up and get to the point! I feel like I was mauled by Jesus. I guess because my parents keep telling me to be more ladylike. As though! No! The kind with looting and maybe starting a few fires! Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd.",2019,"Whisperers",NULL
+9,"Radio show done with JKP","https://media.istockphoto.com/id/1708482985/photo/poetry-night.jpg?s=612x612&w=is&k=20&c=YjdfGxRh-ee1Q_viPafeCpNpvunhieoG-IVtFz1QeSg=","other","- link to radio show -",2020,"JKP Radio show",NULL
+10,"Poetry competition MCR 2012","https://plus.unsplash.com/premium_photo-1682968050814-1b5a4a9cc79d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","poetry","Where laughter echoes, and love brightly shines,
+Where comfort wraps around like a warm shawl,
+In every corner, whispers of the call,
+To come back home, where joy intertwines.
+
+The hearth that flickers with a gentle glow,
+Inviting warmth that melts away the chill,
+A place where I can be myself and grow,
+Where dreams are nurtured and time stands still.
+Where laughter echoes, and love brightly shines,
+Where comfort wraps around like a warm shawl,
+In every corner, whispers of the call,
+To come back home, where joy intertwines.
+
+The hearth that flickers with a gentle glow,
+Inviting warmth that melts away the chill,
+A place where I can be myself and grow,
+Where dreams are nurtured and time stands still.
+",2012,"Day of the dead",NULL
+12,"Spoken word set Manchester","https://images.unsplash.com/photo-1576238580501-f21ccaaa83ac?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","poetry","-link to video-",NULL,"Spoken word Ancoats special",NULL
